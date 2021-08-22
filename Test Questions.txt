@@ -1,0 +1,9 @@
+1. Sum everything from 1 to 1,000,000 skipping every number divisible by 7 (so 7,  14, 21, etc should not be included). 
+
+You will probably need to use an "if" statement, in conjutuncture with a for or while loop. 
+
+2. Delete every vowel in MyText.txt and print to console
+
+3. Write MyText.txt backwards, that is start from the right, and print the characters while going left. (backwards becomes sdrawkcab)
+
+4. Bonus... If a word has 4 or less characters, spell it backwards, otherwise write it normally. 
